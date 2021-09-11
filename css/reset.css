@@ -1,0 +1,86 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	    font-family: 'Roboto', sans-serif;
+		font-size:15px;
+		line-height:1.5;
+}
+
+h1,p{
+	margin:0;
+	padding:0;
+}
+
+h1{
+	font-size:48px;
+}
+
+h2{
+	font-size:36px;
+}
+
+h3{
+	font-size:24px;
+}
+
+ul,li{
+	list-style:none;
+}
+
+.white{
+	color:#fff;
+}
+
+.bold{
+	font-weight:700;
+}
+
+.bolder{
+	font-weight:900;
+}
+
+.center{
+	text-align:center;
+}
+
+.right{
+	text-align:right;
+}
+
+.left{
+	text-align:left;
+}
+
+.primary{
+	color:#e74c3c;
+}
+
+.primary-bg{
+	background-color:#e74c3c;
+}
+
+.secondary{
+	color:#17c0eb;
+}
+
+.secondary-bg{
+	background-color:#17c0eb;
+}
+
+a,a:active,.btn,.btn:active{
+	text-decoration:none;
+	color:#67e6dc;
+}
+
+a:hover,a:active,a:focus,.btn:hover,.btn:active,.btn:focus{
+	text-decoration:none;
+	color:#fff;
+}
+
+.transparent-bg{
+	background-color:rgba(0, 0, 0, 0.6);
+}
+
